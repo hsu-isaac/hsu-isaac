@@ -1,4 +1,6 @@
 # Isaac Hsu's GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsu-isaac)](https://github.com/hsu-isaac/github-readme-stats)
+
 
 ## About
 
