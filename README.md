@@ -5,14 +5,6 @@
 
 ## Hello World 👋🌎
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsu-isaac&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hsu-isaac&repo=convoychat" />
-</a>
-
-
 Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposure to coding relatively recently and have since fallen in love after attending a Web Development Bootcamp called LearningFuze. I hope to be able to create new, useful, and progressively better web applications here!
 
 ✨ Fun Facts! 
