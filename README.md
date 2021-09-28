@@ -1,16 +1,13 @@
-### Hi there 👋
+# Isaac Hsu's GitHub
 
-<!--
-**hsu-isaac/hsu-isaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposure to coding relatively recently and have since fallen in love after attending a Web Development Bootcamp called LearningFuze. I hope to be able to create new, useful, and progressively better web applications here! Outside of software development, you can probably find me playing ultimate frisbee or volleyball with my friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+HTML, CSS, JavaScript, React.js, Node.js, Express.js, Postgresql, Material UI, Bootstrap, date-fns, lodash, npm, git
+
+## Links
+Linkedin: https://www.linkedin.com/in/16hsuisaac/
+Resume: (Coming Soon!)
