@@ -10,5 +10,3 @@ HTML, CSS, JavaScript, React.js, Node.js, Express.js, Postgresql, Material UI, B
 
 ## Links
 Linkedin: https://www.linkedin.com/in/16hsuisaac/
-
-Resume: (Coming Soon!)
