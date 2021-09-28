@@ -9,5 +9,5 @@ Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposur
 HTML, CSS, JavaScript, React.js, Node.js, Express.js, Postgresql, Material UI, Bootstrap, date-fns, lodash, npm, git
 
 ## Links
-Linkedin: https://www.linkedin.com/in/16hsuisaac/
-Resume: (Coming Soon!)
+-Linkedin: https://www.linkedin.com/in/16hsuisaac/
+-Resume: (Coming Soon!)
