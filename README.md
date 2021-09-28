@@ -2,9 +2,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsu-isaac&theme=prussian&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsu-isaac&layout=compact&theme=prussian&show_icons=true">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsu-isaac&theme=prussian&show_icons=true" alt="Isaac Hsu's Github stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsu-isaac&layout=compact&theme=prussian&show_icons=true"> |
-| ------------- | ------------- |
-
 ## Hello World 👋🌎
 
 Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposure to coding relatively recently and have since fallen in love after attending a Web Development Bootcamp called LearningFuze. I hope to be able to create new, useful, and progressively better web applications here!
