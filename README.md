@@ -5,7 +5,10 @@
 
 ## Hello World 👋🌎
 
-Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposure to coding relatively recently and have since fallen in love after attending a Web Development Bootcamp called LearningFuze. I hope to be able to create new, useful, and progressively better web applications here!
+Hello! My name is Isaac Hsu and I am a software engineer! I had my first exposure to coding relatively recently and have since fallen in love after attending a Web Development Bootcamp called LearningFuze. 
+My professional background is as a Backend Software Engineer for Aspiration.
+
+I hope to be able to create new, useful, and progressively better web applications here!
 
 ✨ Fun Facts! 
 - I am a professional ultimate frisbee player!
