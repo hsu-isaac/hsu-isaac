@@ -16,7 +16,7 @@ I hope to be able to create new, useful, and progressively better web applicatio
 
 ## 💻 Skills
 
-Golang, HTML5, CSS3, JavaScript, React.js, Node.js, Express.js, Postgresql, Datadog, Material UI, Bootstrap, date-fns, lodash, npm, git, Webpack, React Router, VS Code, Figma, Heroku, Slack
+Golang, Typescript, JavaScript, React.js, Node.js, Express.js, Postgresql, Docker, HTML5, CSS3, Datadog, Material UI, Bootstrap, date-fns, lodash, npm, git, Webpack, React Router, VS Code, Figma, Heroku, Slack
 
 ## 📫 Let's Connect!
 Linkedin: https://www.linkedin.com/in/16hsuisaac/
